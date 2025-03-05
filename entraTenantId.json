@@ -1,6 +1,42 @@
 [
     {
-        "entraTenantId": "de10c273-79aa-4321-a4dd-b35a741f6bf7",
-        "tenantDescription": "Horia Prod tenant"		
-    }
+      "entraTenantId":  "7392aafd-1b2a-46f7-81a9-ab0e2f0e2146",
+      "tenantDescription":  "7392aafd-1b2a-46f7-81a9-ab0e2f0e2146"	
+    },
+    {
+      "entraTenantId": "5318eabb-c8d7-47b9-93da-5de4ef814214",
+       "tenantDescription": "5318eabb-c8d7-47b9-93da-5de4ef814214"
+      },
+      {
+     "entraTenantId": "064d6d5e-88cd-4c0f-b6d5-876c705915c9",
+"tenantDescription": "064d6d5e-88cd-4c0f-b6d5-876c705915c9"
+      },
+      {
+  "entraTenantId": "0c0c558a-eff9-4e9a-8962-59ff4d753a9e",
+"tenantDescription": "0c0c558a-eff9-4e9a-8962-59ff4d753a9e"
+      },
+      {
+"entraTenantId": "7604e7d7-b7d1-4cee-8b8d-bd220b1c115a",
+"tenantDescription": "7604e7d7-b7d1-4cee-8b8d-bd220b1c115a"
+      },
+      {
+"entraTenantId": "db7afb98-b3c4-42c5-b049-740ea8c0468d",
+"tenantDescription": "db7afb98-b3c4-42c5-b049-740ea8c0468d"
+      },
+      {
+"entraTenantId": "bfe0c2b6-7fe1-4e7b-b89b-cf75b4c3bed6",
+"tenantDescription": "bfe0c2b6-7fe1-4e7b-b89b-cf75b4c3bed6"
+      },
+      {
+"entraTenantId": "e6051673-cf3e-4032-b274-4bd455b9e874",
+"tenantDescription": "e6051673-cf3e-4032-b274-4bd455b9e874"
+      },
+      {
+"entraTenantId": "df62f7f8-bb27-4d68-9eca-92e76fc82e92",
+"tenantDescription": "df62f7f8-bb27-4d68-9eca-92e76fc82e92"
+      },
+      {
+"entraTenantId": "3ab3ef5e-594a-44e8-a797-57978d06bc00",
+"tenantDescription": "3ab3ef5e-594a-44e8-a797-57978d06bc00"
+        }
 ]
